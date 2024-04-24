@@ -1,0 +1,8 @@
+1.78 | 85 | Negro | Gi blanco con cinturón rojo | Templo de Japón
+1.85 | 150 | Calvo | Mawashi blanco y pintura facial | Torneo de Sumo en Japón
+1.88 | 98 | Verde | Pantalones cortos de piel y muñequeras | Selva brasileña
+1.85 | 95 | Rubio | Uniforme militar verde | Base Militar de EE. UU.
+1.75 | 80 | Rubio | Gi rojo con cinturón negro | Dojo de Artes Marciales
+1.65 | 55 | Negro | Qipao azul con trenzas | Calles de China
+2.01 | 120 | Pelirrojo | Tanga rojo y botas | Gimnasio de Lucha en Rusia
+1.78 | 65 | Calvo | Taparrabos naranja | Templo en la India

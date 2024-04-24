@@ -1,0 +1,8 @@
+Ryu | Japonés | Practica las artes marciales desde joven y busca constantemente perfeccionar su técnica y dominar el Satsui no Hado.
+E. Honda | Japonés | Luchador de sumo que busca popularizar su arte en todo el mundo y demostrar su valía en el torneo.
+Blanka | Brasileño | Hombre que fue expuesto a radiación eléctrica en la selva, adquiriendo habilidades eléctricas y luchando con movimientos salvajes.
+Guile | Estadounidense | Piloto de las fuerzas aéreas, utiliza su entrenamiento militar en combate y busca vengar la muerte de su amigo Charlie Nash.
+Ken | Estadounidense | Amigo y rival de Ryu, utiliza un estilo de lucha similar. Es un millonario que busca mejorar sus habilidades y demostrar su valía.
+Chun-Li | China | Experta en artes marciales, trabaja como agente de Interpol y busca venganza por la desaparición de su padre.
+Zangief | Ruso | Luchador de lucha libre rusa conocido por su fuerza bruta y técnicas de lanzamiento. Representa a su país en el torneo.
+Dhalsim | Indio | Monje pacifista con habilidades de yoga que participa en el torneo para recaudar fondos para su aldea y promover la paz.
